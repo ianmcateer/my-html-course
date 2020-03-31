@@ -2,11 +2,12 @@
 
 HTML is the standard markup language for the web. 
 
-With HTML you can create your own website. 
+If you know how to code in HTML you can create and structure your own web pages. To give your website a sharp and dynamic lok you can combine HTML elements with CSS and Javascript. But you should get familiar with the HTML basics and learn to use tags.
 
 - It stands for Hypertext markup language
 - HTML desrcibes the structure of your web page
 
+Lets look at a simple basic HTML document.
 
 ## Simple HTML Document
 ```
@@ -53,7 +54,7 @@ This charset stands for character set. We are settig it to utf-8 which is capabl
 ```
 The <title> element specifies a title for the document
 ```
-This element lives in the head. This defines a title which you can see in the browser tab and is required in all html documents. Search engines also use this.
+This element lives in the head. This defines a title which you can see in the browser tab and is required in all html documents. This also helps search engines find your website.
 
 ```
 The <body> element contains the visible page content
@@ -67,6 +68,3 @@ The <h1> element defines a large heading
 ```
 The <p> element defines a paragraph
 ```
-
-## Structure Visualisation 
-![picture](./images/html-structure.png)
